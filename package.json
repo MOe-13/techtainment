@@ -1,0 +1,36 @@
+{
+  "name": "techtainment",
+  "version": "1.0.0",
+  "description": "Mouminatou Barry | Moe Techtainment, creates apps, products, and services, in order to help strengthen peoples Synapses btw #neurons. Let's work together and make the world a better place by using knowledge in order to amend our flaws. i.e; Learning Math & Science from Nature's perspective & not human signiers.  ",
+  "main": "landing.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MOe-13/techtainment.git"
+  },
+  "keywords": [
+    "Mouminatou",
+    "Barry",
+    "Moe",
+    "Techtainment",
+    "neurons",
+    "synapse",
+    "education",
+    "science",
+    "#PhiloPhysics",
+    "#RelativeReality",
+    "#Cogni",
+    "cognitive",
+    "intellect",
+    "creative",
+    "sensory"
+  ],
+  "author": "Mouminatou Barry | MOe Techtainment",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MOe-13/techtainment/issues"
+  },
+  "homepage": "https://github.com/MOe-13/techtainment#readme"
+}
